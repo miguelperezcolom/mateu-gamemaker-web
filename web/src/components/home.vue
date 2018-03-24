@@ -38,7 +38,7 @@
             <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
             <h5 class="center">Assets</h5>
 
-            <p class="light">Importa assets desde Sketch o desde Github.</p>
+            <p class="light">Importa assets desde Sketchfab o desde Github.</p>
           </div>
         </div>
 
