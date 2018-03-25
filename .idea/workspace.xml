@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/src/components/home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="70">
+              <caret line="61" column="78" lean-forward="false" selection-start-line="61" selection-start-column="78" selection-end-line="61" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -104,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manual.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manual.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/src/components/manual.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,10 +146,10 @@
         <option value="$PROJECT_DIR$/web/src/App.vue" />
         <option value="$PROJECT_DIR$/web/src/components/cabecera.vue" />
         <option value="$PROJECT_DIR$/web/index.html" />
-        <option value="$PROJECT_DIR$/web/src/components/home.vue" />
         <option value="$PROJECT_DIR$/web/src/components/precio.vue" />
         <option value="$PROJECT_DIR$/web/src/components/workflow.vue" />
         <option value="$PROJECT_DIR$/web/src/components/manual.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/home.vue" />
       </list>
     </option>
   </component>
@@ -350,12 +350,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521919345439</updated>
       <workItem from="1521919349541" duration="3083000" />
-      <workItem from="1521925647645" duration="6108000" />
+      <workItem from="1521925647645" duration="6587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9191000" />
+    <option name="totallyTimeSpent" value="9670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
@@ -540,14 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/src/components/precio.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -567,7 +559,15 @@
     <entry file="file://$PROJECT_DIR$/web/src/components/manual.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="61" column="78" lean-forward="false" selection-start-line="61" selection-start-column="78" selection-end-line="61" selection-end-column="78" />
           <folding />
         </state>
       </provider>

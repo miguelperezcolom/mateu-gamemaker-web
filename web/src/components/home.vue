@@ -28,7 +28,7 @@
       <div class="row">
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
+            <h2 class="center light-blue-text"><i class="material-icons">check_circle</i></h2>
             <h5 class="center">Sin programar</h5>
 
             <p class="light">Define la lógica de tu videojuego utilizando un editor tipo Scratch del MIT.</p>
@@ -37,7 +37,7 @@
 
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
+            <h2 class="center light-blue-text"><i class="material-icons">extension</i></h2>
             <h5 class="center">Assets</h5>
 
             <p class="light">Importa assets desde Sketchfab o desde Github.</p>
@@ -49,7 +49,7 @@
 
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
+            <h2 class="center light-blue-text"><i class="material-icons">important_devices</i></h2>
             <h5 class="center">Tecnología</h5>
 
             <p class="light">Incorpora a tu juego toda la tecnología para que solo tengas que preocuparte de la parte creativa.</p>
@@ -59,7 +59,7 @@
 
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
+            <h2 class="center light-blue-text"><i class="material-icons">share</i></h2>
             <h5 class="center">Prototipado</h5>
 
             <p class="light">Utiliza Mateu Game Maker para crear prototipos y exporta después el proyecto a Unreal, Godot, Unity o Libgdx para terminar de desarrollar tu videojuego.</p>

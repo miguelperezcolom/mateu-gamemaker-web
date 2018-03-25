@@ -7,7 +7,7 @@
         <p>Aquí va el manual.</p>
 
       </div>
-      
+
     </article>
 
 </template>
