@@ -1,5 +1,6 @@
 <template>
 
+  <div class="container">
     <article>
 
         <section>
@@ -9,7 +10,7 @@
         </section>
 
     </article>
-
+  </div>
 
 </template>
 <script></script>

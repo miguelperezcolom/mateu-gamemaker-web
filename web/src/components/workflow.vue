@@ -2,6 +2,8 @@
 
     <article>
 
+      <div class="container">
+
         <section>
           <img class="diagrama" src="../assets/diagrama.png" alt="">
         </section>
@@ -54,6 +56,7 @@
             <p>De esta manera puedes crear tu prototipo utilizando Mateu Game Maker y afinarlo después en tu motor de viedojuegos favorito.</p>
         </section>
 
+      </div>
 
     </article>
 

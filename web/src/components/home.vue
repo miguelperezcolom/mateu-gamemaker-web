@@ -23,8 +23,10 @@
 
       </div>
 
+      <div class="container">
+
       <div class="row">
-        <div class="col s12 m3">
+        <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
             <h5 class="center">Sin programar</h5>
@@ -33,7 +35,7 @@
           </div>
         </div>
 
-        <div class="col s12 m3">
+        <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
             <h5 class="center">Assets</h5>
@@ -42,7 +44,10 @@
           </div>
         </div>
 
-        <div class="col s12 m3">
+      </div>
+        <div class="row">
+
+        <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
             <h5 class="center">Tecnología</h5>
@@ -52,7 +57,7 @@
           </div>
         </div>
 
-        <div class="col s12 m3">
+        <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
             <h5 class="center">Prototipado</h5>
@@ -63,6 +68,7 @@
 
       </div>
 
+      </div>
 
     </article>
 
