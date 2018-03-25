@@ -10,7 +10,7 @@
           <h5 class="header col s12 light">La manera más fácil de convertir en realidad tus videojuegos.</h5>
         </div>
         <div class="row center">
-          <router-link :to="{ name: 'manual' }" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</router-link>
+          <router-link :to="{ name: 'workflow' }" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</router-link>
         </div>
         <div class="row center">
         <ul>
